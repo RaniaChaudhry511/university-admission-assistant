@@ -1,0 +1,140 @@
+{
+  "university": {
+    "name": "Northstar University",
+    "location": "Springfield, USA",
+    "academic_year": "2026-2027",
+    "currency": "USD"
+  },
+  "programs": [
+    {
+      "name": "Bachelor of Computer Science",
+      "level": "Undergraduate",
+      "duration": "4 years",
+      "study_mode": "Full-time",
+      "annual_tuition": 24000,
+      "eligibility": [
+        "High school diploma or equivalent",
+        "Mathematics completed at the high school level",
+        "English proficiency: IELTS 6.0 or equivalent for applicants whose prior education was not in English"
+      ]
+    },
+    {
+      "name": "Bachelor of Business Administration",
+      "level": "Undergraduate",
+      "duration": "4 years",
+      "study_mode": "Full-time",
+      "annual_tuition": 22000,
+      "eligibility": [
+        "High school diploma or equivalent",
+        "English proficiency: IELTS 6.0 or equivalent for applicants whose prior education was not in English"
+      ]
+    },
+    {
+      "name": "Master of Data Science",
+      "level": "Graduate",
+      "duration": "2 years",
+      "study_mode": "Full-time",
+      "annual_tuition": 28000,
+      "eligibility": [
+        "Bachelor's degree in computer science, mathematics, statistics, engineering, or a related field",
+        "Minimum undergraduate GPA of 3.0 on a 4.0 scale",
+        "English proficiency: IELTS 6.5 or equivalent for applicants whose prior education was not in English"
+      ]
+    }
+  ],
+  "general_eligibility": {
+    "undergraduate": [
+      "High school diploma or an officially recognized equivalent",
+      "Academic transcripts from all secondary schools attended",
+      "Proof of English proficiency when required"
+    ],
+    "graduate": [
+      "A recognized bachelor's degree",
+      "Academic transcripts from all post-secondary institutions attended",
+      "Proof of English proficiency when required",
+      "Program-specific prerequisites may apply"
+    ],
+    "note": "Requirements are illustrative demo information. Applicants should confirm current requirements with the admissions office."
+  },
+  "fees": {
+    "application_fee": 75,
+    "estimated_annual_living_cost": 16000,
+    "additional_costs": [
+      {
+        "name": "Student services fee",
+        "amount_per_year": 600
+      },
+      {
+        "name": "Health insurance estimate",
+        "amount_per_year": 1800
+      }
+    ],
+    "note": "Tuition and other costs are estimates in USD and may change."
+  },
+  "deadlines": [
+    {
+      "intake": "Fall 2026",
+      "application_opens": "2025-09-01",
+      "priority_deadline": "2026-03-01",
+      "final_deadline": "2026-06-15",
+      "classes_begin": "2026-08-24"
+    },
+    {
+      "intake": "Spring 2027",
+      "application_opens": "2026-03-01",
+      "priority_deadline": "2026-09-15",
+      "final_deadline": "2026-11-01",
+      "classes_begin": "2027-01-11"
+    }
+  ],
+  "application_steps": [
+    {
+      "step": 1,
+      "title": "Choose a program and intake",
+      "details": "Review program requirements and select a start term."
+    },
+    {
+      "step": 2,
+      "title": "Submit the online application",
+      "details": "Complete the application form and pay the application fee."
+    },
+    {
+      "step": 3,
+      "title": "Provide supporting documents",
+      "details": "Upload transcripts, proof of English proficiency when required, and any program-specific materials."
+    },
+    {
+      "step": 4,
+      "title": "Track your application",
+      "details": "Check the applicant portal and respond to any requests from the admissions team."
+    },
+    {
+      "step": 5,
+      "title": "Review your admission decision",
+      "details": "Successful applicants receive instructions for accepting their offer and completing enrollment."
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "Northstar Merit Award",
+      "eligibility": "New undergraduate applicants with a strong academic record",
+      "award": "USD 2,000-8,000 per academic year",
+      "application_process": "Automatically considered after submitting a complete admission application",
+      "renewable": true
+    },
+    {
+      "name": "Graduate Academic Scholarship",
+      "eligibility": "New graduate applicants with a minimum 3.5 undergraduate GPA",
+      "award": "Up to USD 5,000 per academic year",
+      "application_process": "Submit the scholarship form and supporting statement by the priority deadline",
+      "renewable": false
+    }
+  ],
+  "contact": {
+    "office": "Office of Undergraduate and Graduate Admissions",
+    "email": "admissions@example.edu",
+    "phone": "+1-555-010-2026",
+    "address": "100 University Avenue, Springfield, USA",
+    "office_hours": "Monday-Friday, 9:00 AM-5:00 PM local time"
+  }
+}
