@@ -1,5 +1,11 @@
 # Northstar University Admission Assistant
 
+
+
+https://github.com/user-attachments/assets/40600cb6-137b-4155-bb9a-2e64336e05fc
+
+
+
 A university admissions chatbot that answers questions using the demo information in `knowledge_base/university_data.json`.
 
 ## Tech stack
